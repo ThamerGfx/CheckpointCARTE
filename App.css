@@ -1,0 +1,32 @@
+.App {
+  display: flex;
+}
+.App-header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+.cadre{
+  background-color: #124164;
+  width: 30%;
+  height: 150%;
+  color: white;
+}
+.companyname{
+  padding-top: 20%;
+  padding-left: 70%;
+}
+.date{
+  padding-left: 50%;
+}
+.img{
+  width: 15%;
+  height: 15%;
+}
+.img1{
+  width: 25%;
+  height: 20%;
+}
